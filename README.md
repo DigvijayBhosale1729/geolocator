@@ -7,6 +7,16 @@ Installation
       cd geolocator
       pip install -r requirements.txt
       sudo chmod +x geolocator.py
+
+If pip isnt installed, install it using
+For linux
+      
+      pip install pip 
+
+For windows, follow this guide
+      
+      https://phoenixnap.com/kb/install-pip-windows
+      
       
       
 Usage 
