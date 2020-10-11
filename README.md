@@ -11,7 +11,7 @@ Installation
       
 Usage 
 
-     python3 geolocator [options] argument | use -h for help | only use one of -I and -H
+     python3 geolocator.py [options] argument | use -h for help | only use one of -I and -H
 
      Options:
       -h, --help   show this help message and exit
