@@ -1,3 +1,5 @@
+#Made by FoxSinOfGreed1729 
+#Many thanks to TJ O'Connor
 from ip2geotools.databases.noncommercial import DbIpCity
 import optparse
 import socket
